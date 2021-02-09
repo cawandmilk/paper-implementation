@@ -1,6 +1,6 @@
 # **Paper Implementation with AI**
 
-The goal of this repository is to implement the model architecture, loss function, and others proposed in related papers with my own code, .
+The goal of this repository is to implement the model architecture, loss function, and others proposed in related papers with my own code, especially tensorflow 2.x.
 
 Regardless of the detailed field, we aim to acquire the knowledge in as many different fields as possible. (Speaker verification, image classification, optimizer, etc.)
 

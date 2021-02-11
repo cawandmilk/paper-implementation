@@ -17,3 +17,5 @@ Regardless of the detailed field, we aim to acquire the knowledge in as many dif
 [005] Xie, S., Girshick, R., Dollár, P., Tu, Z., & He, K. (2017). **Aggregated residual transformations for deep neural networks**. In *Proceedings of the IEEE conference on computer vision and pattern recognition* (pp. 1492-1500).
 
 [006] McMahan, B., Moore, E., Ramage, D., Hampson, S., & y Arcas, B. A. (2017, April). **Communication-efficient learning of deep networks from decentralized data**. In *Artificial Intelligence and Statistics* (pp. 1273-1282). PMLR.
+
+[007] Jung, J. W., Heo, H. S., Kim, J. H., Shim, H. J., & Yu, H. J. (2019). **Rawnet: Advanced end-to-end deep neural network using raw waveforms for text-independent speaker verification**. *arXiv preprint arXiv:1904.08104*.

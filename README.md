@@ -21,3 +21,5 @@ Regardless of the detailed field, we aim to acquire the knowledge in as many dif
 [007] Jung, J. W., Heo, H. S., Kim, J. H., Shim, H. J., & Yu, H. J. (2019). **Rawnet: Advanced end-to-end deep neural network using raw waveforms for text-independent speaker verification**. *arXiv preprint arXiv:1904.08104*.
 
 [008] Deng, J., Guo, J., Xue, N., & Zafeiriou, S. (2019). **Arcface: Additive angular margin loss for deep face recognition**. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (pp. 4690-4699).
+
+[009] Howard, A. G., Zhu, M., Chen, B., Kalenichenko, D., Wang, W., Weyand, T., ... & Adam, H. (2017). **Mobilenets: Efficient convolutional neural networks for mobile vision applications**. *arXiv preprint arXiv:1704.04861*.

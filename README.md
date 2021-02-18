@@ -23,3 +23,5 @@ Regardless of the detailed field, we aim to acquire the knowledge in as many dif
 [008] Deng, J., Guo, J., Xue, N., & Zafeiriou, S. (2019). **Arcface: Additive angular margin loss for deep face recognition**. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (pp. 4690-4699).
 
 [009] Howard, A. G., Zhu, M., Chen, B., Kalenichenko, D., Wang, W., Weyand, T., ... & Adam, H. (2017). **Mobilenets: Efficient convolutional neural networks for mobile vision applications**. *arXiv preprint arXiv:1704.04861*.
+
+[010] Zhang, X., Zhou, X., Lin, M., & Sun, J. (2018). **Shufflenet: An extremely efficient convolutional neural network for mobile devices**. In *Proceedings of the IEEE conference on computer vision and pattern recognition* (pp. 6848-6856).

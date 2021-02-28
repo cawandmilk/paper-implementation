@@ -25,3 +25,7 @@ Regardless of the detailed field, we aim to acquire the knowledge in as many dif
 [009] Howard, A. G., Zhu, M., Chen, B., Kalenichenko, D., Wang, W., Weyand, T., ... & Adam, H. (2017). **Mobilenets: Efficient convolutional neural networks for mobile vision applications**. *arXiv preprint arXiv:1704.04861*.
 
 [010] Zhang, X., Zhou, X., Lin, M., & Sun, J. (2018). **Shufflenet: An extremely efficient convolutional neural network for mobile devices**. In *Proceedings of the IEEE conference on computer vision and pattern recognition* (pp. 6848-6856).
+
+[011] Koch, G., Zemel, R., & Salakhutdinov, R. (2015, July). **Siamese neural networks for one-shot image recognition**. In *ICML deep learning workshop* (Vol. 2).
+
+[012] Sabour, S., Frosst, N., & Hinton, G. E. (2017). **Dynamic routing between capsules**. *arXiv preprint arXiv:1710.09829*.

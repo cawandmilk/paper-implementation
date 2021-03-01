@@ -29,3 +29,5 @@ Regardless of the detailed field, we aim to acquire the knowledge in as many dif
 [011] Koch, G., Zemel, R., & Salakhutdinov, R. (2015, July). **Siamese neural networks for one-shot image recognition**. In *ICML deep learning workshop* (Vol. 2).
 
 [012] Sabour, S., Frosst, N., & Hinton, G. E. (2017). **Dynamic routing between capsules**. *arXiv preprint arXiv:1710.09829*.
+
+[013] Hu, J., Shen, L., & Sun, G. (2018). **Squeeze-and-excitation networks**. In *Proceedings of the IEEE conference on computer vision and pattern recognition* (pp. 7132-7141).

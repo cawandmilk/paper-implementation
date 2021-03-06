@@ -31,3 +31,5 @@ Regardless of the detailed field, we aim to acquire the knowledge in as many dif
 [[012]](https://arxiv.org/abs/1710.09829) Sabour, S., Frosst, N., & Hinton, G. E. (2017). **Dynamic routing between capsules**. *arXiv preprint arXiv:1710.09829*.
 
 [[013]](https://openaccess.thecvf.com/content_cvpr_2018/html/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.html) Hu, J., Shen, L., & Sun, G. (2018). **Squeeze-and-excitation networks**. In *Proceedings of the IEEE conference on computer vision and pattern recognition* (pp. 7132-7141).
+
+[[014]](https://openaccess.thecvf.com/content_ICCV_2019/html/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.html) Yun, S., Han, D., Oh, S. J., Chun, S., Choe, J., & Yoo, Y. (2019). **Cutmix: Regularization strategy to train strong classifiers with localizable features**. In *Proceedings of the IEEE/CVF International Conference on Computer Vision* (pp. 6023-6032).

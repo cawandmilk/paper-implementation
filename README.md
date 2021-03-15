@@ -39,3 +39,5 @@ Regardless of the detailed field, we aim to acquire the knowledge in as many dif
 [[016]](https://openaccess.thecvf.com/content_cvpr_2018/html/Sandler_MobileNetV2_Inverted_Residuals_CVPR_2018_paper.html) Sandler, M., Howard, A., Zhu, M., Zhmoginov, A., & Chen, L. C. (2018). **Mobilenetv2: Inverted residuals and linear bottlenecks**. In *Proceedings of the IEEE conference on computer vision and pattern recognition* (pp. 4510-4520).
 
 [[017]](http://proceedings.mlr.press/v97/tan19a.html) Tan, M., & Le, Q. (2019, May). **Efficientnet: Rethinking model scaling for convolutional neural networks**. In *International Conference on Machine Learning* (pp. 6105-6114). PMLR.
+
+[[018]](https://arxiv.org/abs/1912.12132) Agrawal, S., Barrington, L., Bromberg, C., Burge, J., Gazen, C., & Hickey, J. (2019). **Machine learning for precipitation nowcasting from radar images**. *arXiv preprint arXiv:1912.12132*.

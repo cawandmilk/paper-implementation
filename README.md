@@ -41,3 +41,5 @@ Regardless of the detailed field, we aim to acquire the knowledge in as many dif
 [[017]](http://proceedings.mlr.press/v97/tan19a.html) Tan, M., & Le, Q. (2019, May). **Efficientnet: Rethinking model scaling for convolutional neural networks**. In *International Conference on Machine Learning* (pp. 6105-6114). PMLR.
 
 [[018]](https://arxiv.org/abs/1912.12132) Agrawal, S., Barrington, L., Bromberg, C., Burge, J., Gazen, C., & Hickey, J. (2019). **Machine learning for precipitation nowcasting from radar images**. *arXiv preprint arXiv:1912.12132*.
+
+[[019]](https://arxiv.org/abs/1710.05941) Ramachandran, P., Zoph, B., & Le, Q. V. (2017). **Searching for activation functions**. *arXiv preprint arXiv:1710.05941*.

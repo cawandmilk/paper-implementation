@@ -43,3 +43,7 @@ Regardless of the detailed field, we aim to acquire the knowledge in as many dif
 [[018]](https://arxiv.org/abs/1912.12132) Agrawal, S., Barrington, L., Bromberg, C., Burge, J., Gazen, C., & Hickey, J. (2019). **Machine learning for precipitation nowcasting from radar images**. *arXiv preprint arXiv:1912.12132*.
 
 [[019]](https://arxiv.org/abs/1710.05941) Ramachandran, P., Zoph, B., & Le, Q. V. (2017). **Searching for activation functions**. *arXiv preprint arXiv:1710.05941*.
+
+[[020]](https://arxiv.org/abs/1508.06576) Gatys, L. A., Ecker, A. S., & Bethge, M. (2015). **A neural algorithm of artistic style**. *arXiv preprint arXiv:1508.06576*.
+
+[[021]](https://arxiv.org/abs/1706.03762) Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). **Attention is all you need**. *arXiv preprint arXiv:1706.03762*.

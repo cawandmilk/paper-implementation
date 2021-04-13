@@ -47,3 +47,5 @@ Regardless of the detailed field, we aim to acquire the knowledge in as many dif
 [[020]](https://arxiv.org/abs/1508.06576) Gatys, L. A., Ecker, A. S., & Bethge, M. (2015). **A neural algorithm of artistic style**. *arXiv preprint arXiv:1508.06576*.
 
 [[021]](https://arxiv.org/abs/1706.03762) Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). **Attention is all you need**. *arXiv preprint arXiv:1706.03762*.
+
+[[022]](https://arxiv.org/abs/1710.03740) Micikevicius, P., Narang, S., Alben, J., Diamos, G., Elsen, E., Garcia, D., ... & Wu, H. (2017). **Mixed precision training**. *arXiv preprint arXiv:1710.03740*.

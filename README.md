@@ -49,3 +49,5 @@ Regardless of the detailed field, we aim to acquire the knowledge in as many dif
 [[021]](https://arxiv.org/abs/1706.03762) Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). **Attention is all you need**. *arXiv preprint arXiv:1706.03762*.
 
 [[022]](https://arxiv.org/abs/1710.03740) Micikevicius, P., Narang, S., Alben, J., Diamos, G., Elsen, E., Garcia, D., ... & Wu, H. (2017). **Mixed precision training**. *arXiv preprint arXiv:1710.03740*.
+
+[[023]](https://arxiv.org/abs/1503.02531) Hinton, G., Vinyals, O., & Dean, J. (2015). **Distilling the knowledge in a neural network**. *arXiv preprint arXiv:1503.02531*.

@@ -1,3 +1,6 @@
+papers/*/assets/*
+papers/*/logs/*
+
 /*.png
 
 .ipynb_checkpoints

@@ -1,7 +1,8 @@
-papers/*/assets/*
-papers/*/logs/*
+*/*/assets/*
+*/*/logs/*
+*/*/ckpt/*
 
-/*.png
+*.png
 
 .ipynb_checkpoints
 */*/ipynb_checkpoints/

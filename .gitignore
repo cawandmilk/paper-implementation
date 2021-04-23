@@ -1,8 +1,8 @@
-*/*/assets/*
 */*/logs/*
 */*/ckpt/*
+*/*/*.png
 
-*.png
+/*.png
 
 .ipynb_checkpoints
 */*/ipynb_checkpoints/

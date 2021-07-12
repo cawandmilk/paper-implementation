@@ -53,3 +53,5 @@ Regardless of the detailed field, we aim to acquire the knowledge in as many dif
 [[023]](https://arxiv.org/abs/1503.02531) Hinton, G., Vinyals, O., & Dean, J. (2015). **Distilling the knowledge in a neural network**. *arXiv preprint arXiv:1503.02531*.
 
 [[024]](https://arxiv.org/abs/1906.02629) Müller, R., Kornblith, S., & Hinton, G. (2019). **When does label smoothing help?**. *arXiv preprint arXiv:1906.02629*.
+
+[[025]](https://arxiv.org/abs/1904.08779) Park, D. S., Chan, W., Zhang, Y., Chiu, C. C., Zoph, B., Cubuk, E. D., & Le, Q. V. (2019). **Specaugment: A simple data augmentation method for automatic speech recognition**. *arXiv preprint arXiv:1904.08779*.

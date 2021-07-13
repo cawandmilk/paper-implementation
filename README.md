@@ -1,10 +1,13 @@
-# **Paper Implementation with AI**
+# **Paper Implementation with DL**
 
-The goal of this repository is to implement the model architecture, loss function, and others proposed in elegant AI papers with my own code, especially tensorflow 2.x.
+The goal of this repository is to implement the model architecture, loss function, and others proposed in elegant AI papers with my own code. I mainly use the familiar version of TensorFlow 2.x, but I also do some simple coding using PyTorch (>=1.9.0). If necessary, there will be instances where the same paper is implemented in both frameworks.
 
 Regardless of the detailed field, we aim to acquire the knowledge in as many different fields as possible. (speaker verification, image classification, GAN, optimizer, etc.)
 
 ## **Papers**
+
+---
+### Implemented as TensorFlow
 
 [[001]](https://openaccess.thecvf.com/content_cvpr_2017/html/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.html) Huang, G., Liu, Z., Van Der Maaten, L., & Weinberger, K. Q. (2017). **Densely connected convolutional networks**. In *Proceedings of the IEEE conference on computer vision and pattern recognition* (pp. 4700-4708).
 
@@ -58,3 +61,7 @@ Regardless of the detailed field, we aim to acquire the knowledge in as many dif
 
 [[026]](https://arxiv.org/abs/1803.10963) Okabe, K., Koshinaka, T., & Shinoda, K. (2018). **Attentive statistics pooling for deep speaker embedding**. *arXiv preprint arXiv:1803.10963*.
 
+---
+### Implemented as PyTorch
+
+[[027]](https://arxiv.org/abs/2104.00298) Tan, M., & Le, Q. V. (2021). **Efficientnetv2: Smaller models and faster training**. *arXiv preprint arXiv:2104.00298*.
